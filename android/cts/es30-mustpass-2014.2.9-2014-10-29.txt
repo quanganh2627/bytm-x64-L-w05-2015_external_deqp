@@ -15790,7 +15790,6 @@ dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.mediump_vertex.vec
 dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.mediump_fragment.vec3
 dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.mediump_fragment.vec4
 dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.highp_vertex.vec3
-dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.highp_vertex.vec4
 dEQP-GLES3.functional.shaders.builtin_functions.precision.dot.highp_fragment.vec3
 dEQP-GLES3.functional.shaders.builtin_functions.precision.cross.lowp_vertex
 dEQP-GLES3.functional.shaders.builtin_functions.precision.cross.lowp_fragment
@@ -25928,7 +25927,6 @@ dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.rgba32f
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.rgba16f
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.depth24_stencil8
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.r11f_g11f_b10f
-dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.srgb_unsigned_byte
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.srgb_alpha_unsigned_byte
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.srgb8_alpha8
 dEQP-GLES3.functional.fbo.completeness.renderable.renderbuffer.color0.depth_component32f

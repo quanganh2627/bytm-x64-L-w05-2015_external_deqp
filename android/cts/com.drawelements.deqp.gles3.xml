@@ -17066,7 +17066,6 @@
 </TestCase>
 <TestCase name="highp_vertex">
 <Test name="vec3" />
-<Test name="vec4" />
 </TestCase>
 <TestCase name="highp_fragment">
 <Test name="vec3" />
@@ -27838,7 +27837,6 @@
 <Test name="rgba16f" />
 <Test name="depth24_stencil8" />
 <Test name="r11f_g11f_b10f" />
-<Test name="srgb_unsigned_byte" />
 <Test name="srgb_alpha_unsigned_byte" />
 <Test name="srgb8_alpha8" />
 <Test name="depth_component32f" />
